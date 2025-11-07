@@ -28,21 +28,3 @@ El núcleo de este proyecto es la implementación del **Algoritmo de Dijkstra** 
 
 ---
 
-## 🚀 Cómo Ejecutarlo
-
-1.  Clona este repositorio:
-    ```bash
-    git clone [Pega-la-URL-de-tu-repositorio-aquí]
-    ```
-
-2.  Navega al directorio del proyecto:
-    ```bash
-    cd [Nombre-de-tu-repositorio]
-    ```
-
-3.  Ejecuta el script de Python:
-    ```bash
-    python calculadora_de_rutas.py
-    ```
-
-4.  Sigue las instrucciones del menú interactivo en la consola.
